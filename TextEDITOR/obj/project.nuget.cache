@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "0zT+ytY3UXVd6SaMOwb1Qs9a5yAetLpogBKZi+CKYZiVY43HgVEEOrr6jJBZ2Tsqhi0jt4yjQbsWJVfso144tg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\WebStuud\\Desktop\\listings-master\\CustomTextEditor\\CustomTextEditor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WebStuud\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\WebStuud\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\WebStuud\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\WebStuud\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.19\\microsoft.netcore.app.host.win-x64.6.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}
